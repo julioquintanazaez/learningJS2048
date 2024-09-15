@@ -1,0 +1,1 @@
+This project is an implementation of the 2048 game. It was taked from a youtube channel tutorial. 
